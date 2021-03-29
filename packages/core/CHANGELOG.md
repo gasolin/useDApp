@@ -1,5 +1,11 @@
 # @usedapp/core
 
+## 0.3.0
+
+### Minor Changes
+
+- 67b2dda: 🧷 Reorder token hooks arguments
+
 ## 0.2.2
 
 ### Patch Changes

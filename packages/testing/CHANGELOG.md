@@ -1,5 +1,16 @@
 # @usedapp/testing
 
+## 0.2.0
+
+### Minor Changes
+
+- 67b2dda: 🧷 Reorder token hooks arguments
+
+### Patch Changes
+
+- Updated dependencies [67b2dda]
+  - @usedapp/core@0.3.0
+
 ## 0.1.4
 
 ### Patch Changes
